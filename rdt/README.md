@@ -13,7 +13,7 @@
 ```html
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="1;url=http://example.org/test">
+    <meta http-equiv="refresh" content="1;url=">
     <title>Jumping...</title>
     <style>
         body{
@@ -31,7 +31,7 @@
     <h5>&nbsp</h5>
     <h2 align="center">跳转中...</h2>
     <h5>&nbsp</h5>
-    <h4 align="center">如果很长时间都没有跳转到指定的链接, 请<a href="http://example.org/test">点击这里</a></h4>
+    <h4 align="center">如果很长时间都没有跳转到指定的链接, 请<a href="">点击这里</a></h4>
 </body>
 ```
 
